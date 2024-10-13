@@ -1,0 +1,8 @@
+{
+   "java.configuration.updateBuildConfiguration": "interactive",
+   "java.compile.nullAnalysis.mode": "automatic",
+   "azureFunctions.deploySubpath": ".",
+   "azureFunctions.projectLanguage": "Custom",
+   "azureFunctions.projectRuntime": "~4",
+   "debug.internalConsoleOptions": "neverOpen"
+}
